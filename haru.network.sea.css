@@ -1,0 +1,27 @@
+html, body{height: 100%}
+body{
+margin: 0;
+color: #ffffff;
+background: #00bfff url(sea.jpg);
+background-size: cover;
+}
+h1{
+margin: 0;
+padding: 0.4em;
+font-size: large;
+font-weight: normal;
+color: #ffffff;
+background-color: rgba(0,0,0,0.85);
+}
+p{
+margin: 7.2em auto;
+padding: 1.8em;
+border-radius: 13px;
+width: 23em;
+line-height: 1.8;
+background-color: rgba(0,0,0,0.85)
+}
+h2{
+font-family: 'Bitter', serif;
+font-size: 24px;
+}
